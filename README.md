@@ -1,2 +1,4 @@
 # COVID_19_PP
-Trabajo propio con los datos de la enfermedad Covid 19
+
+En este repositorio se guarda la exploracion y analisis de la data coronavirus_to_map tomada del diario el pais de españa, para una posterior construccion de la app en shiny 
+
